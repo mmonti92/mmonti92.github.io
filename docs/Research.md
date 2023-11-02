@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Research"
-permalink: /Research/Overview/
+permalink: /Research/
+order: 2
 ---
 
 

@@ -21,48 +21,32 @@
 title: Maurizio Monti
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a scientist working on ultrafast spectroscopy of condensed matter. Here will find info on my research, papers and projects.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 domain: "mmonti92.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mmonti92.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
-#twitter_username: mauri_monti
-#linkedin_username: maurizio-monti
-#github_username:  mmonti92
-
-header_pages:
-  - about.markdown
-  - Research.md
-  - Publications.md
-  - Contact.md
-
-
+twitter_username: mauri_monti
+github_username:  mmonti92
 
 # Build settings
 #theme: minima
-remote_theme:  jekyll/minima
-#remote_theme: https://github.com/pages-themes/midnight
+#remote_theme:  "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: https://github.com/pages-themes/midnight
 #theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
-  #- jekyll-include-cache
-
+  - jekyll-include-cache
+<<<<<<< HEAD
 
 # Collections
 #collections:
  # research_item:
  #   output: true
-
-
-minima:
-  skin: dark
-  social_links:
-   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=3XhkV98AAAAJ&hl=en" }
-   - { platform: linkedin, user_url: "https://www.linkedin.com/in/maurizio-monti/" }
-   - { platform: twitter, user_url: "https://twitter.com/mauri_monti" }
-   #- { platform: orcid, user_url: "https://orcid.org/my-orcid?orcid=0000-0003-2192-3747"}
-
+=======
+>>>>>>> 76de733c34966faccb0807c8c17215fcc5a9bc09
 
 
 

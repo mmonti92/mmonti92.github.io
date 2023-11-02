@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Publications"
-permalink: /Research/Publications/
+permalink: /Publications/
+order: 5
 ---
-
-List of papers go here
+List of papers
+Orcid: 
