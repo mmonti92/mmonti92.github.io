@@ -39,11 +39,14 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-include-cache
+<<<<<<< HEAD
 
 # Collections
 #collections:
  # research_item:
  #   output: true
+=======
+>>>>>>> 76de733c34966faccb0807c8c17215fcc5a9bc09
 
 
 
