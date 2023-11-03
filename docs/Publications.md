@@ -27,7 +27,7 @@ order: 5
 
 </style>
 
-<h3><ins>Peer-reviewd articles</ins></h3>
+<h3><ins>Peer-reviewed articles</ins></h3>
 
 {% assign publications = site.publications | sort: "number" | reverse %}
 {% assign thesize = publications.size %}
