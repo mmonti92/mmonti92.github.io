@@ -4,3 +4,7 @@
 
 layout: home
 ---
+<p>
+welcome! In this website you'll find some info on <a href="/about">myself</a>, my <a href="/research">research</a> and my <a href="/Publications">papers</a>
+
+</p>

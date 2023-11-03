@@ -6,4 +6,4 @@ order: 2
 ---
 
 
-Fancy figures
+Work in progress
