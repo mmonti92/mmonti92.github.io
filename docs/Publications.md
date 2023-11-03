@@ -33,5 +33,13 @@ order: 5
     <div class="pubtitle"><td>[{{ thesize | minus: forloop.index | plus: 1 }}] </td>{{ pub.title }} </div>
     <div class="pubauthors">{{ pub.authors }}</div>
     <div class="pubinfo">{{ pub.publication }}, {{ pub.year}}</div>
+    <div class="pubdoi"><a href={{pub.doi}}>absolute file</a></div>
   </div>
+  
+  
 {% endfor %}
+
+
+<h3>PHD thesis</h3>
+<a href="/Downloads/WRAP_Theses_Monti_2020.pdf">Ultrafast Spectroscopy of Metal Halide Perovskites and III-V semiconductors</a>
+, Maurizio Monti (2020)
