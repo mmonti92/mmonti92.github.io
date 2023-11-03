@@ -53,6 +53,11 @@ plugins:
 #collections:
  # research_item:
  #   output: true
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:name
+
 
 
 minima:
