@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Arrived in Le Mans"
+title:  "Arrived in Le Mans!"
 date:   2023-11-02 17:39
 categories: Life update
 ---
