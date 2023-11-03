@@ -30,10 +30,10 @@ order: 5
 {% assign thesize = publications.size %}
 {% for pub in publications %}
   <div class="pubitem">
-    <div class="pubtitle"><td>[{{ thesize | minus: forloop.index | plus: 1 }}] </td>{{ pub.title }} </div>
+    <div class="pubtitle"><td>[{{ thesize | minus: forloop.index | plus: 1 }}] </td><a href="{{pub.doi}}">{{ pub.title }}</a> </div>
     <div class="pubauthors">{{ pub.authors }}</div>
     <div class="pubinfo">{{ pub.publication }}, {{ pub.year}}</div>
-    <div class="pubdoi"><a href={{pub.doi}}>absolute file</a></div>
+    <div class="pubdoi"></div>
   </div>
   
   
