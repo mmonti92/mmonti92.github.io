@@ -36,7 +36,7 @@ header_pages:
   - Publications.md
   - Contact.md
 
-
+timezone: Europe/Paris
 
 # Build settings
 #theme: minima
