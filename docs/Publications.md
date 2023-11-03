@@ -26,6 +26,9 @@ order: 5
 
 
 </style>
+
+<h3><ins>Peer-reviewd articles</ins></h3>
+
 {% assign publications = site.publications | sort: "number" | reverse %}
 {% assign thesize = publications.size %}
 {% for pub in publications %}
@@ -40,6 +43,6 @@ order: 5
 {% endfor %}
 
 
-<h3>PHD thesis</h3>
+<h3><ins>PHD thesis</ins></h3>
 <a href="/Downloads/WRAP_Theses_Monti_2020.pdf">Ultrafast Spectroscopy of Metal Halide Perovskites and III-V semiconductors</a>
 , Maurizio Monti (2020)
