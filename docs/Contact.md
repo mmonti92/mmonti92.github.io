@@ -8,6 +8,7 @@ order: 4
 <h3>Maurizio Monti</h3>
 <p>
 IMMM - Institut des Molécules et Matériaux du Mans  <br/>
+Faculté des Sciences et Techniques<br/>
 
 Avenue Olivier Messiaen <br/>
 72085, Le Mans <br/>
