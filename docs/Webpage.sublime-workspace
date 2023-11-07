@@ -13,10 +13,7 @@
 			{
 				"buffer_size": 88,
 				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-			]
+			}
 		},
 		{
 			"file": "_config.yml",
