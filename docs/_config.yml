@@ -57,6 +57,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:name
+  preprints:
+    output: true
+    permalink: /:collection/:name
 
 
 

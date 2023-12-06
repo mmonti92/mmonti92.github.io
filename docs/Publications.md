@@ -26,6 +26,18 @@ order: 5
 
 
 </style>
+<h3><ins>Preprints</ins></h3>
+{% assign publications = site.preprints | sort: "number" | reverse %}
+{% assign thesize = publications.size %}
+{% for pub in publications %}
+  <div class="pubitem">
+    <div class="pubtitle"><td>[{{ thesize | minus: forloop.index | plus: 1 }}] </td><a href="{{pub.doi}}">{{ pub.title }}</a> </div>
+    <div class="pubauthors">{{ pub.authors }}</div>
+    <div class="pubinfo">{{ pub.publication }}, {{ pub.year}}</div>
+    <div class="pubdoi"></div>
+  </div>
+
+
 
 <h3><ins>Peer-reviewed articles</ins></h3>
 
