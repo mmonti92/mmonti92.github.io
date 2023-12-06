@@ -37,7 +37,7 @@ order: 5
     <div class="pubdoi"></div>
   </div>
 
-
+{% endfor %}
 
 <h3><ins>Peer-reviewed articles</ins></h3>
 
