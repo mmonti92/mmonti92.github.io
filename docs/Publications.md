@@ -41,6 +41,10 @@ order: 5
 
 <h3><ins>Peer-reviewed articles</ins></h3>
 
+<p>
+  If you don't see a list please consider disabling your adblocker.
+</p>>
+
 {% assign publications = site.publications | sort: "number" | reverse %}
 {% assign thesize = publications.size %}
 {% for pub in publications %}
