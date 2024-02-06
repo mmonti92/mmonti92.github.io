@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New article just published"
-date:   2024-02-0117:00
+date:   2024-02-01-17:00
 categories: Papers
 ---
 
