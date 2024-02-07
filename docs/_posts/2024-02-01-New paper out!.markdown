@@ -10,5 +10,5 @@ Finally some of the work from Aarhus is getting pushed out: our work <a href="ht
 This is a nice work where we used some nice computational techniques (principal ocmponent analysis) to exploit coherent phonon excitations in order to
 measure the spectral phase of a chirped broadband pulse. Very useful as a simple method to measure precisly, and in situ, time zero in a pump-probe experiment.
 
-Congratulations to the first author Emmanuel that gets the first paper of his PhD out.
+Congratulations to the first author Emmanuel that gets the second paper of his PhD out.
 </p>
