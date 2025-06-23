@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Moving to Paris!"
+date:   2025-06-23 17:39
+categories: Life update
+---
+
+<p>
+I'm happy to announce I will be joining Sorbonne université, and the Institut de Nanoscience de Paris (INSP) as a maitre de conferences in September!
+Very bittersweet leaving Le Mans, but very excited for the new adventure!
+</p>
