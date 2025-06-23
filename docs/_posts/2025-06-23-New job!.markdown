@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Moving to Paris!"
-date:   2025-06-23 17:39
+date:   2025-06-23 8:00
 categories: Life update
 ---
 
