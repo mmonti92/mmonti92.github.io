@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "FisMat 2025 commences!"
+date:   2025-07-07 00:01
+categories: Conferences
+---
+
+<p>
+Today the the Italian condensed matter conference FisMat starts! Looking forward to lotsof interesting talks! I'm presenting my old work from Aarhus on Wednesday and the Le Mans work on Friday. Today looking forward to watch Pascal opening talk for the thermal mechanical workshop.
+</p>
