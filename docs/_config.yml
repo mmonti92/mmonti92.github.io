@@ -81,6 +81,9 @@ minima:
     - title: Linkedin
       icon: linkedin
       url: "https://www.linkedin.com/in/maurizio-monti/"
+    - title: Reddit
+      icon: reddit
+      url: "https://www.reddit.com/user/mauriziomonti/"
 
 
 
