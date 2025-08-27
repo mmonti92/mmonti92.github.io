@@ -66,10 +66,11 @@ collections:
 minima:
   skin: dark
   social_links:
-   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=3XhkV98AAAAJ&hl=en" }
-   - { platform: linkedin, user_url: "https://www.linkedin.com/in/maurizio-monti/" }
-   - { platform: twitter, user_url: "https://twitter.com/mauri_monti" }
+   #- { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=3XhkV98AAAAJ&hl=en" }
+   #- { platform: linkedin, user_url: "https://www.linkedin.com/in/maurizio-monti/" }
+   #- { platform: twitter, user_url: "https://twitter.com/mauri_monti" }
    #- { platform: orcid, user_url: "https://orcid.org/my-orcid?orcid=0000-0003-2192-3747"}
+   linkedin: "https://www.linkedin.com/in/maurizio-monti/"
 
 
 
