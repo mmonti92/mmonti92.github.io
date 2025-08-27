@@ -71,7 +71,7 @@ minima:
       url: "https://scholar.google.com/citations?user=3XhkV98AAAAJ&hl=en"
     - title: OrcID
       icon: orcid
-      url: "https://orcid.org/my-orcid?orcid=0000-0003-2192-3747"
+      url: "https://orcid.org/0000-0003-2192-3747"
     - title: Researchgate
       icon: researchgate
       url: https://www.researchgate.net/profile/Maurizio-Monti?ev=hdr_xprf
