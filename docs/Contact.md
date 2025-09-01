@@ -16,7 +16,7 @@ France
 
 </p>
 
-<iframe src="https://www.google.com/maps/place/Insp+-+Institut+Des+Nanosciences+De+Paris+-+Cnrs+-+Sorbonne+University/@48.8481843,2.3538308,17z/data=!3m2!4b1!5s0x47e671f15b01eaab:0x2914bc1056f754a1!4m6!3m5!1s0x47e6718bf192caef:0xc2f87fce13021d89!8m2!3d48.8481808!4d2.3564111!16s%2Fg%2F11frdtwptp?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D"></iframe>
+<iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2625.5257413198383!2d2.353830812305229!3d48.84818430130484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6718bf192caef%3A0xc2f87fce13021d89!2sInsp%20-%20Institut%20Des%20Nanosciences%20De%20Paris%20-%20Cnrs%20-%20Sorbonne%20University!5e0!3m2!1sen!2sfr!4v1756720140441!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"></iframe>
 
 
 <p>
