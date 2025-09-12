@@ -13,7 +13,7 @@ The wide range of energies and time scales can be used to disentangle the differ
 </p>
 <p>
 I completed my PhD at the University of Warwick, working on ultrafast spectroscopy of semiconductors, and afterwards I had a nice few years working at Aarhus university in Aarhus, Denmark.<br/>
-Currently I'm working as a postdoc for CNRS. Based in Le Mans.<br/>
+After a couple of years spent as a CNRS postdoc at Le Mans, I recently joined Sorbonne university and the Institut de Nanoscience de Paris as a Maître de Conférences (assistant professor).<br/>
 </p>
 <p>
 In my free time I enjoy listening to music from a wide range of genres and reading SFF books. Currently struggling to learn French.
