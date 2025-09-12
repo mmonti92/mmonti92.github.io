@@ -16,10 +16,25 @@ or <a href="https://arxiv.org/abs/2407.03013">quantum materials</a>.
 !!! Work in progress !!!
 
 
-<h2><ins>Materials for the photovoltaics</ins></h2>
+
+
 
 
 <h2><ins>Quantum materials</ins></h2>
+
+<h3><ins>Dynamics of laser-induced phase transitions</ins></h3>
+
+<h3><ins>Multiferroics</ins></h3>
+
+<h3><ins>Topological insulators</ins></h3>
+
+
+
+<h2><ins>Materials for the photovoltaics and semiconductors</ins></h2>
+
+<h3><ins>Metal halide perovskites</ins></h3>
+
+<h3><ins>MIII-V semiconductors</ins></h3>
 
 
 
@@ -29,5 +44,6 @@ or <a href="https://arxiv.org/abs/2407.03013">quantum materials</a>.
 <h3><ins>Ultrafast science</ins></h3>
 
 <h3><ins>Time-resolved laser spectroscopy</ins></h3>
+<h3><ins>Terahertz emission</ins></h3>
 
 <h3><ins>Technique development</ins></h3>
