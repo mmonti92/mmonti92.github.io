@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New paper out!"
-date:   2025-10-13 17:00
+date:   2025-10-13 10:00
 categories: Papers
 ---
 
